@@ -18,57 +18,32 @@
 
 ---
 
-<h2>🛠️ Technologies & Tools</h2>
+<h1 align="center">🛠️ Technologies & Tools</h1>
 
+<table align="center">
+<tr>
+<td width="300" valign="top">
 <h3>Languages</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,js" /></p>
 <h3>Frontend Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" /></p>
 <h3>Backend Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 <h3>Databases</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-<p>
-  <strong>NoSQL</strong>
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>
+</td>
+  
+<td width="300" valign="top">
 <h3>APIs</h3>
-
-<p>
-  REST APIs • API Integration
-</p>
-
+<p>REST APIs • API Integration</p>
 <h3>Git & Deployment</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-<p>
-  Git • GitHub • Deployment
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=git,github" /></p>
+<p>Git • GitHub • Deployment</p>
 <h3>Design</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=figma" /></p>
+</td>
+</tr>
+</table>
 
 ---
 
